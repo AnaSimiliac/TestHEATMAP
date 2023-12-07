@@ -5,7 +5,7 @@ body {
     margin: 0;
     font-family: 'Arial', sans-serif;
     transition: background-color 0.5s ease; /* Add a transition for background color change */
-    background-image: url('/imgs/backgroundMain.png'); /* Replace 'path/to/your/image.jpg' with the actual path to your image */
+    background-image: url('imgs/backgroundMain.png'); /* Replace 'path/to/your/image.jpg' with the actual path to your image */
     background-size: cover; /* Ensures the image covers the entire background */
     background-position: center; /* Centers the image */
     background-repeat: no-repeat; /* Prevents the image from repeating */
