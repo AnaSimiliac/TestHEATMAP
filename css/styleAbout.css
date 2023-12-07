@@ -6,10 +6,7 @@ body {
   margin: 0;
   font-family: 'Arial', sans-serif;
   transition: background-color 0.5s ease;
-  background-image: url('imgs/bacgroundAbout.png');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
+  background-color: black;
   background-blend-mode: multiply; /* Apply blending mode to reduce the visibility of the background image */
 }
 
