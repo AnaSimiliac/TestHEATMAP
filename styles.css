@@ -6,8 +6,8 @@ body {
     overflow: hidden; /* Prevent scrolling */
 }
 #heatmapContainer {
-    width: 640px; /* Simulate average phone width */
-    height: 360px; /* Simulate average phone height */
+    width: 360px; /* Simulate average phone width */
+    height: 640px; /* Simulate average phone height */
     margin: 0 auto; /* Center the container */
     position: relative;
     display: flex;
