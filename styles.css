@@ -1,5 +1,5 @@
 body {
-    background-image: url('/6_lab_assignment/image/background.png'); /* Ensure your image is landscape */
+    background-image: url('image/background.png'); /* Ensure your image is landscape */
     background-size:contain; /* Cover the entire page */
     background-position: center center; /* Center the background image */
     height: 100vh; /* Make sure the body covers the full viewport height */
