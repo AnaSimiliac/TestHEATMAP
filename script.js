@@ -6,8 +6,8 @@ var heatmapInstance = h337.create({
   // Generate some random data
   var points = [];
   var max = 0;
-  var width = 640; // Adjusted to container width
-  var height = 360; // Adjusted to container height
+  var width = 360; // Adjusted to container width
+  var height = 640; // Adjusted to container height
   var len = 200; // Number of data points
   
   while (len--) {
